@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test2014</folder>
-	<filename>COCO_test2014_000000020099.jpg</filename>
-	<path>/Users/Angyu/Downloads/test2014/COCO_test2014_000000020099.jpg</path>
+	<folder>5</folder>
+	<filename>COCO_test2014_000000020099.png</filename>
+	<path>/Users/Angyu/Downloads/5/COCO_test2014_000000020099.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,39 +12,39 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>346</ymin>
+			<xmax>141</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>348</ymin>
+			<xmax>42</xmax>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+	<object>
 		<name>Bus</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>254</xmin>
-			<ymin>298</ymin>
-			<xmax>399</xmax>
-			<ymax>431</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>84</xmin>
-			<ymin>347</ymin>
-			<xmax>144</xmax>
-			<ymax>379</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>4</xmin>
-			<ymin>348</ymin>
-			<xmax>40</xmax>
-			<ymax>402</ymax>
+			<xmin>262</xmin>
+			<ymin>307</ymin>
+			<xmax>401</xmax>
+			<ymax>428</ymax>
 		</bndbox>
 	</object>
 </annotation>

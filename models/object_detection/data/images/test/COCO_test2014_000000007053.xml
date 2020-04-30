@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test2014</folder>
-	<filename>COCO_test2014_000000007053.jpg</filename>
-	<path>/Users/Angyu/Downloads/test2014/COCO_test2014_000000007053.jpg</path>
+	<folder>3</folder>
+	<filename>COCO_test2014_000000007053.png</filename>
+	<path>/Users/Angyu/Downloads/3/COCO_test2014_000000007053.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>301</xmin>
+			<xmin>297</xmin>
 			<ymin>453</ymin>
-			<xmax>364</xmax>
-			<ymax>463</ymax>
+			<xmax>360</xmax>
+			<ymax>471</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>116</xmin>
+			<xmin>174</xmin>
+			<ymin>451</ymin>
+			<xmax>212</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Traffic light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
 			<ymin>455</ymin>
-			<xmax>148</xmax>
-			<ymax>465</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Traffic light</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>180</xmin>
-			<ymin>449</ymin>
-			<xmax>213</xmax>
-			<ymax>458</ymax>
+			<xmax>145</xmax>
+			<ymax>468</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,22 +53,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>218</xmin>
-			<ymin>516</ymin>
-			<xmax>242</xmax>
-			<ymax>530</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>87</xmin>
+			<xmin>215</xmin>
 			<ymin>518</ymin>
-			<xmax>113</xmax>
-			<ymax>534</ymax>
+			<xmax>250</xmax>
+			<ymax>538</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>516</ymin>
+			<xmax>109</xmax>
+			<ymax>537</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Zebra crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>541</ymin>
+			<xmax>336</xmax>
+			<ymax>554</ymax>
 		</bndbox>
 	</object>
 </annotation>
