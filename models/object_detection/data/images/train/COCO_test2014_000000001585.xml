@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test2014</folder>
-	<filename>COCO_test2014_000000001585.jpg</filename>
-	<path>/Users/Angyu/Downloads/test2014/COCO_test2014_000000001585.jpg</path>
+	<folder>2</folder>
+	<filename>COCO_test2014_000000001585.png</filename>
+	<path>/Users/Angyu/Downloads/2/COCO_test2014_000000001585.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>123</xmin>
-			<ymin>287</ymin>
-			<xmax>229</xmax>
-			<ymax>361</ymax>
+			<xmin>118</xmin>
+			<ymin>285</ymin>
+			<xmax>227</xmax>
+			<ymax>360</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>287</xmin>
-			<ymin>280</ymin>
-			<xmax>308</xmax>
-			<ymax>332</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Traffic light</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>23</xmin>
-			<ymin>239</ymin>
-			<xmax>47</xmax>
-			<ymax>261</ymax>
+			<xmin>283</xmin>
+			<ymin>282</ymin>
+			<xmax>312</xmax>
+			<ymax>341</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,22 +41,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>28</xmin>
-			<ymin>270</ymin>
-			<xmax>77</xmax>
-			<ymax>307</ymax>
+			<xmin>25</xmin>
+			<ymin>265</ymin>
+			<xmax>76</xmax>
+			<ymax>314</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Pedestrians</name>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>356</xmin>
+			<ymin>197</ymin>
+			<xmax>516</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>499</xmin>
-			<ymin>90</ymin>
-			<xmax>533</xmax>
-			<ymax>129</ymax>
+			<xmin>543</xmin>
+			<ymin>251</ymin>
+			<xmax>626</xmax>
+			<ymax>442</ymax>
 		</bndbox>
 	</object>
 </annotation>

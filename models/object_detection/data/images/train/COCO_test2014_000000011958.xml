@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test2014</folder>
-	<filename>COCO_test2014_000000011958.jpg</filename>
-	<path>/Users/Angyu/Downloads/test2014/COCO_test2014_000000011958.jpg</path>
+	<folder>4</folder>
+	<filename>COCO_test2014_000000011958.png</filename>
+	<path>/Users/Angyu/Downloads/4/COCO_test2014_000000011958.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Traffic light</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>476</xmin>
-			<ymin>212</ymin>
-			<xmax>520</xmax>
-			<ymax>230</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>Train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>93</xmin>
-			<ymin>132</ymin>
-			<xmax>312</xmax>
-			<ymax>285</ymax>
+			<xmin>133</xmin>
+			<ymin>138</ymin>
+			<xmax>313</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Traffic light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>481</xmin>
+			<ymin>210</ymin>
+			<xmax>515</xmax>
+			<ymax>229</ymax>
 		</bndbox>
 	</object>
 </annotation>

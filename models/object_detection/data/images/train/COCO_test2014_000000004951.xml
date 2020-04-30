@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test2014</folder>
-	<filename>COCO_test2014_000000004951.jpg</filename>
-	<path>/Users/Angyu/Downloads/test2014/COCO_test2014_000000004951.jpg</path>
+	<folder>2</folder>
+	<filename>COCO_test2014_000000004951.png</filename>
+	<path>/Users/Angyu/Downloads/2/COCO_test2014_000000004951.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,22 +17,22 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>359</xmin>
+			<xmin>353</xmin>
 			<ymin>117</ymin>
 			<xmax>480</xmax>
-			<ymax>302</ymax>
+			<ymax>305</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Parking meter</name>
+		<name>Car</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>235</xmin>
-			<ymin>73</ymin>
-			<xmax>331</xmax>
-			<ymax>265</ymax>
+			<xmin>75</xmin>
+			<ymin>8</ymin>
+			<xmax>450</xmax>
+			<ymax>114</ymax>
 		</bndbox>
 	</object>
 </annotation>

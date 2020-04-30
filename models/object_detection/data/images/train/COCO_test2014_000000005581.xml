@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test2014</folder>
-	<filename>COCO_test2014_000000005581.jpg</filename>
-	<path>/Users/Angyu/Downloads/test2014/COCO_test2014_000000005581.jpg</path>
+	<folder>3</folder>
+	<filename>COCO_test2014_000000005581.png</filename>
+	<path>/Users/Angyu/Downloads/3/COCO_test2014_000000005581.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,26 +12,14 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Person</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>162</xmin>
-			<ymin>196</ymin>
-			<xmax>243</xmax>
-			<ymax>281</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>Bike</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>87</xmin>
-			<ymin>238</ymin>
-			<xmax>311</xmax>
+			<xmin>95</xmin>
+			<ymin>204</ymin>
+			<xmax>304</xmax>
 			<ymax>345</ymax>
 		</bndbox>
 	</object>

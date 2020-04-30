@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test2014</folder>
-	<filename>COCO_test2014_000000018061.jpg</filename>
-	<path>/Users/Angyu/Downloads/test2014/COCO_test2014_000000018061.jpg</path>
+	<folder>5</folder>
+	<filename>COCO_test2014_000000018061.png</filename>
+	<path>/Users/Angyu/Downloads/5/COCO_test2014_000000018061.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>Zebra crossing</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>194</ymin>
-			<xmax>402</xmax>
-			<ymax>396</ymax>
+			<xmin>21</xmin>
+			<ymin>197</ymin>
+			<xmax>403</xmax>
+			<ymax>390</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,46 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>18</xmin>
+			<xmin>109</xmin>
 			<ymin>47</ymin>
-			<xmax>357</xmax>
-			<ymax>139</ymax>
+			<xmax>129</xmax>
+			<ymax>76</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Traffic light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>40</ymin>
+			<xmax>194</xmax>
+			<ymax>73</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Traffic light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>48</ymin>
+			<xmax>63</xmax>
+			<ymax>76</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Yield</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>424</xmin>
+			<ymin>139</ymin>
+			<xmax>434</xmax>
+			<ymax>152</ymax>
 		</bndbox>
 	</object>
 </annotation>

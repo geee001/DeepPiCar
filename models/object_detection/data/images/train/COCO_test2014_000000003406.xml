@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test2014</folder>
-	<filename>COCO_test2014_000000003406.jpg</filename>
-	<path>/Users/Angyu/Downloads/test2014/COCO_test2014_000000003406.jpg</path>
+	<folder>2</folder>
+	<filename>COCO_test2014_000000003406.png</filename>
+	<path>/Users/Angyu/Downloads/2/COCO_test2014_000000003406.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Pedestrians/Bicycle stop light</name>
+		<name>Traffic light</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>220</xmin>
-			<ymin>42</ymin>
-			<xmax>353</xmax>
-			<ymax>325</ymax>
+			<xmin>214</xmin>
+			<ymin>32</ymin>
+			<xmax>358</xmax>
+			<ymax>313</ymax>
 		</bndbox>
 	</object>
 </annotation>

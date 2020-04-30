@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test2014</folder>
-	<filename>COCO_test2014_000000007514.jpg</filename>
-	<path>/Users/Angyu/Downloads/test2014/COCO_test2014_000000007514.jpg</path>
+	<folder>3</folder>
+	<filename>COCO_test2014_000000007514.png</filename>
+	<path>/Users/Angyu/Downloads/3/COCO_test2014_000000007514.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>223</xmin>
-			<ymin>199</ymin>
-			<xmax>333</xmax>
-			<ymax>373</ymax>
+			<xmin>241</xmin>
+			<ymin>179</ymin>
+			<xmax>329</xmax>
+			<ymax>377</ymax>
 		</bndbox>
 	</object>
 </annotation>
