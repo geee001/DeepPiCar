@@ -1,0 +1,26 @@
+<annotation>
+	<folder>37</folder>
+	<filename>00037_00000_00025.png</filename>
+	<path>/Users/Angyu/Downloads/gtsrb-german-traffic-sign/Train/37/00037_00000_00025.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>50</width>
+		<height>51</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Go straight or left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>6</ymin>
+			<xmax>47</xmax>
+			<ymax>45</ymax>
+		</bndbox>
+	</object>
+</annotation>

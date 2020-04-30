@@ -1,0 +1,26 @@
+<annotation>
+	<folder>33</folder>
+	<filename>00033_00000_00025.png</filename>
+	<path>/Users/Angyu/Downloads/gtsrb-german-traffic-sign/Train/33/00033_00000_00025.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>82</width>
+		<height>86</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Turn right ahead</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>8</ymin>
+			<xmax>74</xmax>
+			<ymax>80</ymax>
+		</bndbox>
+	</object>
+</annotation>

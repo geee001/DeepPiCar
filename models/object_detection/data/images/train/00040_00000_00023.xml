@@ -1,0 +1,26 @@
+<annotation>
+	<folder>40</folder>
+	<filename>00040_00000_00023.png</filename>
+	<path>/Users/Angyu/Downloads/gtsrb-german-traffic-sign/Train/40/00040_00000_00023.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>55</width>
+		<height>56</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Roundabout mandatory</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>5</ymin>
+			<xmax>52</xmax>
+			<ymax>51</ymax>
+		</bndbox>
+	</object>
+</annotation>

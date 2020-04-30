@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10</folder>
+	<filename>00010_00000_00028.png</filename>
+	<path>/Users/Angyu/Downloads/gtsrb-german-traffic-sign/Train/10/00010_00000_00028.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>58</width>
+		<height>62</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No passing for vehicles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>6</ymin>
+			<xmax>54</xmax>
+			<ymax>54</ymax>
+		</bndbox>
+	</object>
+</annotation>

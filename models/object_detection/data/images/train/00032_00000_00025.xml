@@ -1,0 +1,26 @@
+<annotation>
+	<folder>32</folder>
+	<filename>00032_00000_00025.png</filename>
+	<path>/Users/Angyu/Downloads/gtsrb-german-traffic-sign/Train/32/00032_00000_00025.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>71</width>
+		<height>70</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>End of restriction</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>4</ymin>
+			<xmax>68</xmax>
+			<ymax>67</ymax>
+		</bndbox>
+	</object>
+</annotation>

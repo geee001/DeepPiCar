@@ -1,0 +1,26 @@
+<annotation>
+	<folder>31</folder>
+	<filename>00031_00000_00019.png</filename>
+	<path>/Users/Angyu/Downloads/gtsrb-german-traffic-sign/Train/31/00031_00000_00019.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>69</width>
+		<height>61</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Wild animals crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>6</ymin>
+			<xmax>64</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+</annotation>

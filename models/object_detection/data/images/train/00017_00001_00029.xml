@@ -1,0 +1,26 @@
+<annotation>
+	<folder>17</folder>
+	<filename>00017_00001_00029.png</filename>
+	<path>/Users/Angyu/Downloads/gtsrb-german-traffic-sign/Train/17/00017_00001_00029.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>52</width>
+		<height>53</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No entry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>5</ymin>
+			<xmax>48</xmax>
+			<ymax>48</ymax>
+		</bndbox>
+	</object>
+</annotation>

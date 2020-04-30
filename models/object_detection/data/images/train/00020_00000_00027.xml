@@ -1,0 +1,26 @@
+<annotation>
+	<folder>20</folder>
+	<filename>00020_00000_00027.png</filename>
+	<path>/Users/Angyu/Downloads/gtsrb-german-traffic-sign/Train/20/00020_00000_00027.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>111</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dangerous curve to the right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>8</ymin>
+			<xmax>103</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+</annotation>

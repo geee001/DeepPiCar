@@ -1,0 +1,26 @@
+<annotation>
+	<folder>22</folder>
+	<filename>00022_00001_00026.png</filename>
+	<path>/Users/Angyu/Downloads/gtsrb-german-traffic-sign/Train/22/00022_00001_00026.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>58</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bumpy road</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>6</ymin>
+			<xmax>61</xmax>
+			<ymax>54</ymax>
+		</bndbox>
+	</object>
+</annotation>

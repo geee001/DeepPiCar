@@ -1,0 +1,26 @@
+<annotation>
+	<folder>21</folder>
+	<filename>00021_00001_00023.png</filename>
+	<path>/Users/Angyu/Downloads/gtsrb-german-traffic-sign/Train/21/00021_00001_00023.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>68</width>
+		<height>58</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Double curve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>4</ymin>
+			<xmax>63</xmax>
+			<ymax>52</ymax>
+		</bndbox>
+	</object>
+</annotation>
